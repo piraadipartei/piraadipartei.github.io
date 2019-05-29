@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Academic</title>
+    <title>Piraadipartei</title>
     <link>/authors/admin/</link>
-    <description>Recent content on Academic</description>
+    <description>Recent content on Piraadipartei</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <language>et</language>
     
 	<atom:link href="/authors/admin/index.xml" rel="self" type="application/rss+xml" />
     
