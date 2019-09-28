@@ -3,13 +3,14 @@
   <channel>
     <title>Piraadipartei</title>
     <link>/authors/admin/</link>
-    <description>Recent content on Piraadipartei</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>et</language>
-    <copyright>Lehe sisu on avaldatud [Creative Commonsi avaliku omandi litsentsi](https://creativecommons.org/publicdomain/zero/1.0/) alusel</copyright>
-    
-	<atom:link href="/authors/admin/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="/authors/admin/index.xml" rel="self" type="application/rss+xml" />
+    <description>Piraadipartei</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>et</language><copyright>Lehe sisu on avaldatud [Creative Commonsi avaliku omandi litsentsi](https://creativecommons.org/publicdomain/zero/1.0/) alusel</copyright>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Piraadipartei</title>
+      <link>/authors/admin/</link>
+    </image>
     
   </channel>
 </rss>
