@@ -5,12 +5,20 @@
     <link>/authors/</link>
       <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>et</language><copyright>Lehe sisu on avaldatud [Creative Commonsi avaliku omandi litsentsi](https://creativecommons.org/publicdomain/zero/1.0/) alusel</copyright>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>et</language><copyright>Lehe sisu on avaldatud [Creative Commonsi avaliku omandi litsentsi](https://creativecommons.org/publicdomain/zero/1.0/) alusel</copyright><lastBuildDate>Mon, 18 Nov 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Authors</title>
       <link>/authors/</link>
     </image>
+    
+    <item>
+      <title>Piraadipartei</title>
+      <link>/authors/piraadipartei/</link>
+      <pubDate>Mon, 18 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/piraadipartei/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title></title>

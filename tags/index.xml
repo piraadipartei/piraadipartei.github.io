@@ -5,12 +5,204 @@
     <link>/tags/</link>
       <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>et</language><copyright>Lehe sisu on avaldatud [Creative Commonsi avaliku omandi litsentsi](https://creativecommons.org/publicdomain/zero/1.0/) alusel</copyright>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>et</language><copyright>Lehe sisu on avaldatud [Creative Commonsi avaliku omandi litsentsi](https://creativecommons.org/publicdomain/zero/1.0/) alusel</copyright><lastBuildDate>Mon, 18 Nov 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Tags</title>
       <link>/tags/</link>
     </image>
+    
+    <item>
+      <title>uus juhatus</title>
+      <link>/tags/uus-juhatus/</link>
+      <pubDate>Mon, 18 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>/tags/uus-juhatus/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>valgdemokraatia</title>
+      <link>/tags/valgdemokraatia/</link>
+      <pubDate>Mon, 18 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>/tags/valgdemokraatia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>autoriõigus</title>
+      <link>/tags/autorioigus/</link>
+      <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>/tags/autorioigus/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>avaandmed</title>
+      <link>/tags/avaandmed/</link>
+      <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>/tags/avaandmed/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>avatud majandus</title>
+      <link>/tags/avatud-majandus/</link>
+      <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>/tags/avatud-majandus/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>avatud teadmus</title>
+      <link>/tags/avatud-teadmus/</link>
+      <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>/tags/avatud-teadmus/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>avatus</title>
+      <link>/tags/avatus/</link>
+      <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>/tags/avatus/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>demokraatia</title>
+      <link>/tags/demokraatia/</link>
+      <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>/tags/demokraatia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>hajutatus</title>
+      <link>/tags/hajutatus/</link>
+      <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>/tags/hajutatus/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>infotaristu</title>
+      <link>/tags/infotaristu/</link>
+      <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>/tags/infotaristu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>infovabadus</title>
+      <link>/tags/infovabadus/</link>
+      <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>/tags/infovabadus/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>infoühiskond</title>
+      <link>/tags/infouhiskond/</link>
+      <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>/tags/infouhiskond/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>kopimi</title>
+      <link>/tags/kopimi/</link>
+      <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>/tags/kopimi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>küberkaitse</title>
+      <link>/tags/kuberkaitse/</link>
+      <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>/tags/kuberkaitse/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>küberküber</title>
+      <link>/tags/kuberkuber/</link>
+      <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>/tags/kuberkuber/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>otsedemokraatia</title>
+      <link>/tags/otsedemokraatia/</link>
+      <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>/tags/otsedemokraatia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>piraadipartei</title>
+      <link>/tags/piraadipartei/</link>
+      <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>/tags/piraadipartei/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>privaatsus</title>
+      <link>/tags/privaatsus/</link>
+      <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>/tags/privaatsus/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>riigikogu</title>
+      <link>/tags/riigikogu/</link>
+      <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>/tags/riigikogu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>roheline erakond</title>
+      <link>/tags/roheline-erakond/</link>
+      <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>/tags/roheline-erakond/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>sõnavabadus</title>
+      <link>/tags/sonavabadus/</link>
+      <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>/tags/sonavabadus/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>teadmusühiskond</title>
+      <link>/tags/teadmusuhiskond/</link>
+      <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>/tags/teadmusuhiskond/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>vaba Internet</title>
+      <link>/tags/vaba-internet/</link>
+      <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>/tags/vaba-internet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>valimised</title>
+      <link>/tags/valimised/</link>
+      <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>/tags/valimised/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
