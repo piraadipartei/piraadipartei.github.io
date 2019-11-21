@@ -5,12 +5,100 @@
     <link>/tags/</link>
       <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>et</language><copyright>Lehe sisu on avaldatud [Creative Commonsi avaliku omandi litsentsi](https://creativecommons.org/publicdomain/zero/1.0/) alusel</copyright><lastBuildDate>Fri, 01 Feb 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>et</language><copyright>Lehe sisu on avaldatud [Creative Commonsi avaliku omandi litsentsi](https://creativecommons.org/publicdomain/zero/1.0/) alusel</copyright><lastBuildDate>Mon, 18 Nov 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Tags</title>
       <link>/tags/</link>
     </image>
+    
+    <item>
+      <title>digiosalus</title>
+      <link>/tags/digiosalus/</link>
+      <pubDate>Mon, 18 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>/tags/digiosalus/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>e-riik</title>
+      <link>/tags/e-riik/</link>
+      <pubDate>Mon, 18 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>/tags/e-riik/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Euroopa Parlament</title>
+      <link>/tags/euroopa-parlament/</link>
+      <pubDate>Mon, 18 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>/tags/euroopa-parlament/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Euroopa Piraadipartei</title>
+      <link>/tags/euroopa-piraadipartei/</link>
+      <pubDate>Mon, 18 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>/tags/euroopa-piraadipartei/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Helsingi</title>
+      <link>/tags/helsingi/</link>
+      <pubDate>Mon, 18 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>/tags/helsingi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Island</title>
+      <link>/tags/island/</link>
+      <pubDate>Mon, 18 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>/tags/island/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Luksemburg</title>
+      <link>/tags/luksemburg/</link>
+      <pubDate>Mon, 18 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>/tags/luksemburg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>piraadipartei</title>
+      <link>/tags/piraadipartei/</link>
+      <pubDate>Mon, 18 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>/tags/piraadipartei/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tšehhi</title>
+      <link>/tags/tsehhi/</link>
+      <pubDate>Mon, 18 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>/tags/tsehhi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>uus juhatus</title>
+      <link>/tags/uus-juhatus/</link>
+      <pubDate>Mon, 18 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>/tags/uus-juhatus/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>üldkoosolek</title>
+      <link>/tags/uldkoosolek/</link>
+      <pubDate>Mon, 18 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>/tags/uldkoosolek/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>autoriõigus</title>
@@ -121,14 +209,6 @@
       <link>/tags/otsedemokraatia/</link>
       <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
       <guid>/tags/otsedemokraatia/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>piraadipartei</title>
-      <link>/tags/piraadipartei/</link>
-      <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>/tags/piraadipartei/</guid>
       <description></description>
     </item>
     
