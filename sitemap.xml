@@ -223,22 +223,17 @@
   </url>
   
   <url>
-    <loc>/about/</loc>
-    <lastmod>2019-12-15T18:14:15+02:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/authors/admin/</loc>
     <lastmod>2019-05-06T17:54:11+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/donate/</loc>
-    <lastmod>2019-12-15T18:14:15+02:00</lastmod>
+    <loc>/categories/</loc>
   </url>
   
   <url>
-    <loc>/categories/</loc>
+    <loc>/about/</loc>
+    <lastmod>2019-12-15T18:14:15+02:00</lastmod>
   </url>
   
   <url>
@@ -258,6 +253,11 @@
   <url>
     <loc>/talk/</loc>
     <lastmod>2019-05-06T17:54:11+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/donate/</loc>
+    <lastmod>2019-12-15T18:14:15+02:00</lastmod>
   </url>
   
   <url>
