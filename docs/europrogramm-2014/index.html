@@ -6,7 +6,7 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="generator" content="Source Themes Academic 4.5.0">
+  <meta name="generator" content="Source Themes Academic 4.6.3">
 
   
 
@@ -51,8 +51,8 @@ Demokraatia defitsiit Euroopa Liidu siseselt on püsinud liidu loomisest alates 
   
     
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.8.6/css/academicons.min.css" integrity="sha256-uFVgMKfistnJAfoCUQigIl+JfUaP47GrRKjf6CTPVmw=" crossorigin="anonymous">
-    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.0/css/all.css" integrity="sha384-aOkxzJ5uQz7WBObEZcHvV5JvRW3TUc2rNPA7pe3AwnsUohiw1Vj2Rgx2KSOkF5+h" crossorigin="anonymous">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.2.5/jquery.fancybox.min.css" integrity="sha256-ygkqlh3CYSUri3LhQxzdcm0n1EQvH2Y+U5S2idbLtxs=" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/css/all.min.css" integrity="sha256-+N4/V/SbAFiW1MPBCXnfnP9QSN3+Keu+NlB+0ev/YKQ=" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.css" integrity="sha256-Vzbj7sDDS/woiFS3uNKo8eIuni59rjyNGtXfstRzStA=" crossorigin="anonymous">
 
     
     
@@ -63,14 +63,14 @@ Demokraatia defitsiit Euroopa Liidu siseselt on püsinud liidu loomisest alates 
       
       
         
-          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.6/styles/github.min.css" crossorigin="anonymous" title="hl-light">
-          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.6/styles/dracula.min.css" crossorigin="anonymous" title="hl-dark" disabled>
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.10/styles/github.min.css" crossorigin="anonymous" title="hl-light">
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.10/styles/dracula.min.css" crossorigin="anonymous" title="hl-dark" disabled>
         
       
     
 
     
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.2.0/leaflet.css" integrity="sha512-M2wvCLH6DSRazYeZRIm1JnYyh22purTM+FDB5CsyxtQJYeKq83arPe5wgbNmcFXGqiSH2XR8dT/fJISVA1r/zQ==" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.5.1/leaflet.css" integrity="sha256-SHMGCYmST46SoyGgo4YR/9AlK1vf3ff84Aq9yK4hdqM=" crossorigin="anonymous">
     
 
     
@@ -86,19 +86,8 @@ Demokraatia defitsiit Euroopa Liidu siseselt on püsinud liidu loomisest alates 
   
   
   
-  <link rel="stylesheet" href="/css/academic.min.e767d4478f6ed8fcd0bb2660effeb4a8.css">
-
   
-    
-    
-    
-    
-      
-    
-    
-    
-    <link rel="stylesheet" href="/css/academic.12c626a8ceb415949927365c5c797f44.css">
-  
+  <link rel="stylesheet" href="/css/academic.css">
 
   
 
@@ -199,24 +188,35 @@ Demokraatia defitsiit Euroopa Liidu siseselt on püsinud liidu loomisest alates 
 
 
   
-<nav class="navbar navbar-light fixed-top navbar-expand-lg py-0 compensate-for-scrollbar" id="navbar-main">
+
+<nav class="navbar navbar-expand-lg navbar-light compensate-for-scrollbar" id="navbar-main">
   <div class="container">
 
     
+    <div class="d-none d-lg-inline-flex">
       <a class="navbar-brand" href="/">Piraadipartei</a>
-      
-      <button type="button" class="navbar-toggler" data-toggle="collapse"
-              data-target="#navbar" aria-controls="navbar" aria-expanded="false" aria-label="Näita menüüd">
-        <span><i class="fas fa-bars"></i></span>
-      </button>
-      
+    </div>
+    
 
     
-    <div class="collapse navbar-collapse" id="navbar">
+    <button type="button" class="navbar-toggler" data-toggle="collapse"
+            data-target="#navbar-content" aria-controls="navbar" aria-expanded="false" aria-label="Näita menüüd">
+    <span><i class="fas fa-bars"></i></span>
+    </button>
+    
+
+    
+    <div class="navbar-brand-mobile-wrapper d-inline-flex d-lg-none">
+      <a class="navbar-brand" href="/">Piraadipartei</a>
+    </div>
+    
+
+    
+    
+    <div class="navbar-collapse main-menu-item collapse justify-content-start" id="navbar-content">
 
       
-      
-      <ul class="navbar-nav mr-auto">
+      <ul class="navbar-nav d-md-inline-flex">
         
 
         
@@ -320,29 +320,28 @@ Demokraatia defitsiit Euroopa Liidu siseselt on püsinud liidu loomisest alates 
         
 
       
+
+        
       </ul>
-      <ul class="navbar-nav ml-auto">
+    </div>
+
+    <ul class="nav-icons navbar-nav flex-row ml-auto d-flex pl-md-2">
+      
+      <li class="nav-item">
+        <a class="nav-link js-search" href="#"><i class="fas fa-search" aria-hidden="true"></i></a>
+      </li>
       
 
-        
+      
+      <li class="nav-item">
+        <a class="nav-link js-dark-toggle" href="#"><i class="fas fa-moon" aria-hidden="true"></i></a>
+      </li>
+      
 
-        
-        <li class="nav-item">
-          <a class="nav-link js-search" href="#"><i class="fas fa-search" aria-hidden="true"></i></a>
-        </li>
-        
+      
 
-        
+    </ul>
 
-        
-        <li class="nav-item">
-          <a class="nav-link js-dark-toggle" href="#"><i class="fas fa-moon" aria-hidden="true"></i></a>
-        </li>
-        
-
-      </ul>
-
-    </div>
   </div>
 </nav>
 
@@ -358,6 +357,11 @@ Demokraatia defitsiit Euroopa Liidu siseselt on püsinud liidu loomisest alates 
 
 
 
+  
+
+
+
+
 <form class="docs-search d-flex align-items-center">
   <button class="btn docs-toggle d-md-none p-0 mr-3" type="button" data-toggle="collapse" data-target="#docs-nav" aria-controls="docs-nav" aria-expanded="false" aria-label="Toggle section navigation">
     <span><i class="fas fa-bars"></i></span>
@@ -369,6 +373,10 @@ Demokraatia defitsiit Euroopa Liidu siseselt on püsinud liidu loomisest alates 
 </form>
 
 <nav class="collapse docs-links" id="docs-nav">
+  
+
+  
+  
   
   
   <div class="docs-toc-item">
@@ -457,10 +465,10 @@ Demokraatia defitsiit Euroopa Liidu siseselt on püsinud liidu loomisest alates 
         <li><a href="#hisvara-eelistamine">Ühisvara eelistamine</a></li>
       </ul>
     </li>
-    <li><a href="#6-avatud-ligips-ja-avaandmed">6. Avatud ligipääs ja ava-andmed</a>
+    <li><a href="#6-avatud-ligips-ja-ava-andmed">6. Avatud ligipääs ja ava-andmed</a>
       <ul>
         <li><a href="#avatud-ligips">Avatud ligipääs</a></li>
-        <li><a href="#avaandmed">Ava-andmed</a></li>
+        <li><a href="#ava-andmed">Ava-andmed</a></li>
       </ul>
     </li>
     <li><a href="#patendid">Patendid</a>
@@ -536,7 +544,7 @@ Demokraatia defitsiit Euroopa Liidu siseselt on püsinud liidu loomisest alates 
 <p>PIRAADID on mistahes isikuandmete vahendamise vastu nii Euroopa Liidu siseselt kui väljapoole, kui selleks puudub hästi põhjendatud vajadus. See hõlmaks lennuettevõtete reisija- ja makseandmete edastamist kolmandatele riikidele nagu Ameerika Ühendriigid, kavandatud EUROSUR-piirivalvesüsteemi andmeid ning kohalike politseiandmebaaside andmeid. Isikuandmete edastamine toimivat põhiõiguste kaitset mitte tagada suutvatele riikidele peab olema keelatud.</p>
 <p>PIRAADID lükkavad tagasi seire- ja aruandlusseadmete nagu näiteks „nutiarvestid” sundusliku kasutuselevõtmise.</p>
 <p>PIRAADID seavad eesmärgiks kehtestada ranged nõuded tööstuslikult toodetud rakendustele, mis töötlevad automaatselt isikuandmeid või eraelulist teavet (nt juurdepääsu haldussüsteemid). Sellised süsteemid peavad olema avatud lähtekoodi ja dokumentatsiooniga ning sõltumatute osapoolte retsenseeritud.</p>
-<h4 id="jlgimisvimekuse-ja-meetmete-sstemaatiline-hindamine">Jälgimisvõimekuse ja -meetmete süstemaatiline hindamine</h4>
+<h4 id="jlgimisvimekuse-ja--meetmete-sstemaatiline-hindamine">Jälgimisvõimekuse ja -meetmete süstemaatiline hindamine</h4>
 <h5 id="lausjlgimise-keelustamine">Lausjälgimise keelustamine</h5>
 <p>Avalik ruum on täis kaameraid, mis jälgivad inimeste ja sõidukite liikumist, tuvastavad nägusid ja seostavad seda teavet tervikuks, võtmata arvesse võimalikke riiveid eraelu puutumatusele. Statistikast nähtub, et jälgimissüsteemide mõju kuritegevuse taseme vähenemisele on minimaalne ja parimal juhul nihkub kuritegevus jälgimisulatusest väljas olevatele aladele. PIRAADID toetavad ning peavad esmatähtsaks politseitöötajate suunamist jälgmiselt tegelikule patrullimisele avalikus ruumis.</p>
 <h5 id="elektroonilise-luure-ja-biomeetriliste-andmete-kogumise-keelustamine">Elektroonilise luure ja biomeetriliste andmete kogumise keelustamine</h5>
@@ -552,7 +560,7 @@ Demokraatia defitsiit Euroopa Liidu siseselt on püsinud liidu loomisest alates 
 <h5 id="phiiguste-pitser-uutele-ohutusmeetmetele">Põhiõiguste “pitser” uutele ohutusmeetmetele</h5>
 <p>PIRAADID on seisukohal, et EL Põhiõiguste Amet (FRA) peab hindama süstemaatiliselt kõiki praegusi ja tulevasi julgeolekuprogramme Euroopa Liidus. Kahjulike kõrvalmõjude vältimiseks tuleb Euroopa julgeolekuasutuste tegutsemispõhimõtteid tõenduspõhiselt hinnata ning analüüsida alternatiivseid lahendusi, et kindlustada nende ühilduvus meie põhiõigustega. Me peame tagama, et EL Põhiõiguste Ametil on nende ülesannete täitmiseks asjakohased volitused.</p>
 <p>PIRAADID nõuavad moratooriumi Euroopa Liidu julgeolekuasutuste edasisele sisejulgeoleku nimel meie põhiõigustesse sekkumisele, kuni on läbi viidud põhiõiguste ameti volituste süstemaatiline ümberhindamine.</p>
-<h4 id="julgeolekuuuringud-ja-seiretarkvara">Julgeoleku-uuringud ja seiretarkvara</h4>
+<h4 id="julgeoleku-uuringud-ja-seiretarkvara">Julgeoleku-uuringud ja seiretarkvara</h4>
 <p>PIRAADID toetavad teadusuuringute rahastamist ELi kaudu, kuid valitsusasutuste vahetu osalus järelevalve ja filtreerimise programmides nagu INDECT ja CleanIT näitab selget kavatsust kasutada neid riikliku rahastuse baasil arendatud tehnoloogiaid viisil, mis muudavad need kodanikuõiguste lõhustamise vahendiks. Seetõttu oleme seisukohal, et EL ei tohi rahastada tehnoloogiaid, mille peamine eesmärk on põhiõiguste piiramine.</p>
 <h4 id="tugevate-kaitsemehhanismidega-andmekaitse-mrus">Tugevate kaitsemehhanismidega andmekaitse määrus</h4>
 <p>Kujunev Euroopa Liidu andmekaitsemäärus ei tohi viia andmekaitse nõuete lahtumiseni, vaid peab tugevdama liidu kodanike õigusi kõigis Euroopa Liidu riikides.</p>
@@ -591,10 +599,10 @@ Demokraatia defitsiit Euroopa Liidu siseselt on püsinud liidu loomisest alates 
 <p>PIRAADID toetavad kõigis Euroopa Liidu avalikes raamatukogudes ja arhiivides säilitatud dokumentide digimist ja avaldamist.</p>
 <h3 id="hisvara-eelistamine">Ühisvara eelistamine</h3>
 <p>PIRAADID lubavad töötada selle nimel, et eri kaubanduslepingutesse kirjutataks sisse sätted, mis toetavad avatud failivormingute ning vaba ja avatud lähtekoodiga tarkvara kasutamist ja arendamist ning aitavad saavutada Creative Commons tüüpi litsentsimismudelite mitmepoolset tunnustamist.</p>
-<h2 id="6-avatud-ligips-ja-avaandmed">6. Avatud ligipääs ja ava-andmed</h2>
+<h2 id="6-avatud-ligips-ja-ava-andmed">6. Avatud ligipääs ja ava-andmed</h2>
 <h3 id="avatud-ligips">Avatud ligipääs</h3>
 <p>Kõigi riigi poolt täielikult või osaliselt rahastatud teadusuuringute tulemused tuleb avaldada avatud ligipääsuga teadusajakirjades või muul sellisel viisil, mis teeb need avalikkusele kergesti ja tasuta kättesaadavaks.</p>
-<h3 id="avaandmed">Ava-andmed</h3>
+<h3 id="ava-andmed">Ava-andmed</h3>
 <p>Kõik avalikuks kasutamiseks loodud andmed peavad nende allikast sõltumata olema üldsusele vabalt kättesaadavad tingimusel, et isikuandmeid ei avaldata ilma asjassepuutuvate isikute loata. Sellised andmed tehakse kättesaadavaks asjakohasel kujul, sh andmetöötluse jaoks sobivas masinloetavas vormingus. Ligipääsu andmetele ei tohi piirata tasude, litsentside, koormavate taotlusprotseduuride või tehniliste meetmetega.</p>
 <p>PIRAADID püüdlevad sellise avaliku teabe seaduse poole Euroopa Liidu tasemel, mis kõrvaldaks infovabadusele barjääre loovad puudused kehtivas regulatsioonis, nt nagu kitsas “dokumendi” määratlus ja ebamõistlikud vaidlustamise tähtajad.</p>
 <h2 id="patendid">Patendid</h2>
@@ -683,11 +691,20 @@ Demokraatia defitsiit Euroopa Liidu siseselt on püsinud liidu loomisest alates 
           <p>Last updated on Nov 15, 2019</p>
 
           
+
+
+
+
+
+  
+  
+
 <p class="edit-page">
   <a href="https://github.com/piraadipartei/academic-kickstart/edit/master/content/docs/europrogramm-2014.md">
     <i class="fas fa-pen pr-2"></i>Muuda seda lehte
   </a>
 </p>
+
 
 
 
@@ -728,15 +745,15 @@ Demokraatia defitsiit Euroopa Liidu siseselt on püsinud liidu loomisest alates 
       <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js" integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>
       <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.imagesloaded/4.1.4/imagesloaded.pkgd.min.js" integrity="sha256-lqvxZrPLtfffUl2G/e7szqSvPBILGbwmsGE1MKlOi0Q=" crossorigin="anonymous"></script>
       <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.isotope/3.0.6/isotope.pkgd.min.js" integrity="sha256-CBrpuqrMhXwcLLUd5tvQ4euBHCdh7wGlDfNz8vbu/iI=" crossorigin="anonymous"></script>
-      <script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.2.5/jquery.fancybox.min.js" integrity="sha256-X5PoE3KU5l+JcX+w09p/wHl9AzK333C4hJ2I9S5mD4M=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.js" integrity="sha256-yt2kYMy0w8AbtF89WXb2P1rfjcP/HTHLT7097U8Y5b8=" crossorigin="anonymous"></script>
 
       
 
       
         
-        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.6/highlight.min.js" integrity="sha256-aYTdUrn6Ow1DDgh5JTc3aDGnnju48y/1c8s1dgkYPQ8=" crossorigin="anonymous"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.10/highlight.min.js" integrity="sha256-1zu+3BnLYV9LdiY85uXMzii3bdrkelyp37e0ZyTAQh0=" crossorigin="anonymous"></script>
         
-        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.6/languages/r.min.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.10/languages/r.min.js"></script>
         
       
 
@@ -746,12 +763,12 @@ Demokraatia defitsiit Euroopa Liidu siseselt on püsinud liidu loomisest alates 
 
     
     
-      <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.2.0/leaflet.js" integrity="sha512-lInM/apFSqyy1o6s89K4iQUKg6ppXEgsVxT35HbzUupEVRh2Eu9Wdl4tHj7dZO0s1uvplcYGmt3498TtHq+log==" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.5.1/leaflet.js" integrity="sha256-EErZamuLefUnbMBQbsEqu1USa+btR2oIlCpBJbyD4/g=" crossorigin="anonymous"></script>
     
 
     
     
-    <script>hljs.initHighlightingOnLoad();</script>
+    <script>const code_highlighting = true;</script>
     
 
     
@@ -821,7 +838,7 @@ Demokraatia defitsiit Euroopa Liidu siseselt on püsinud liidu loomisest alates 
     
     
     
-    <script src="/js/academic.min.6cbefe3f0755301b86cd38317ded9f54.js"></script>
+    <script src="/js/academic.min.600a2e440c16093e23e26e90951c4d4b.js"></script>
 
     
 
@@ -830,6 +847,7 @@ Demokraatia defitsiit Euroopa Liidu siseselt on püsinud liidu loomisest alates 
 
 
 
+  
   
 
   
