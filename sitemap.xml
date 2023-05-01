@@ -1,268 +1,162 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>/docs/</loc>
     <lastmod>2019-11-20T14:59:57+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/docs/p6hikiri/</loc>
     <lastmod>2019-11-15T15:42:06+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/docs/p6him6tted/</loc>
     <lastmod>2019-11-15T15:42:06+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/docs/piraadikoodeks/</loc>
     <lastmod>2019-11-20T14:44:01+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/docs/p6hiv33rtused/</loc>
     <lastmod>2019-11-15T15:42:06+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/docs/europrogramm-2014/</loc>
     <lastmod>2019-11-15T15:42:06+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/</loc>
     <lastmod>2019-11-21T20:38:45+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/digiosalus/</loc>
     <lastmod>2019-11-21T20:38:45+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/e-riik/</loc>
     <lastmod>2019-11-21T20:38:45+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/euroopa-parlament/</loc>
     <lastmod>2019-11-21T20:38:45+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/euroopa-piraadipartei/</loc>
     <lastmod>2019-11-21T20:38:45+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/helsingi/</loc>
     <lastmod>2019-11-21T20:38:45+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/island/</loc>
     <lastmod>2019-11-21T20:38:45+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/luksemburg/</loc>
     <lastmod>2019-11-21T20:38:45+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/</loc>
     <lastmod>2019-11-21T20:38:45+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/piraadipartei/</loc>
     <lastmod>2019-11-21T20:38:45+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/</loc>
     <lastmod>2019-11-21T20:38:45+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/tsehhi/</loc>
     <lastmod>2019-11-21T20:38:45+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/uus-juhatus/</loc>
     <lastmod>2019-11-21T20:38:45+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/blog/uus-juhatus-2019/</loc>
     <lastmod>2019-11-21T20:38:45+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/uldkoosolek/</loc>
     <lastmod>2019-11-21T20:38:45+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/autorioigus/</loc>
     <lastmod>2019-11-19T04:52:06+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/avaandmed/</loc>
     <lastmod>2019-11-19T04:52:06+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/avatud-majandus/</loc>
     <lastmod>2019-11-19T04:52:06+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/avatud-teadmus/</loc>
     <lastmod>2019-11-19T04:52:06+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/avatus/</loc>
     <lastmod>2019-11-19T04:52:06+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/demokraatia/</loc>
     <lastmod>2019-11-19T04:52:06+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/hajutatus/</loc>
     <lastmod>2019-11-19T04:52:06+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/infotaristu/</loc>
     <lastmod>2019-11-19T04:52:06+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/infovabadus/</loc>
     <lastmod>2019-11-19T04:52:06+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/infouhiskond/</loc>
     <lastmod>2019-11-19T04:52:06+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/kopimi/</loc>
     <lastmod>2019-11-19T04:52:06+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/kuberkaitse/</loc>
     <lastmod>2019-11-19T04:52:06+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/kuberkuber/</loc>
     <lastmod>2019-11-19T04:52:06+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/otsedemokraatia/</loc>
     <lastmod>2019-11-19T04:52:06+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/privaatsus/</loc>
     <lastmod>2019-11-19T04:52:06+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/riigikogu/</loc>
     <lastmod>2019-11-19T04:52:06+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/roheline-erakond/</loc>
     <lastmod>2019-11-19T04:52:06+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/sonavabadus/</loc>
     <lastmod>2019-11-19T04:52:06+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/teadmusuhiskond/</loc>
     <lastmod>2019-11-19T04:52:06+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/vaba-internet/</loc>
     <lastmod>2019-11-19T04:52:06+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/blog/riigikogu-programm-2019/</loc>
     <lastmod>2019-11-19T04:52:06+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/valimised/</loc>
     <lastmod>2019-11-19T04:52:06+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/admin/</loc>
     <lastmod>2019-05-06T17:54:11+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/piraadipartei/</loc>
     <lastmod>2019-11-19T05:37:47+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/categories/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/about/</loc>
     <lastmod>2019-12-15T20:52:03+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/post/</loc>
     <lastmod>2019-05-06T17:54:11+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication_types/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication/</loc>
     <lastmod>2019-05-06T17:54:11+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/talk/</loc>
     <lastmod>2019-05-06T17:54:11+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/donate/</loc>
     <lastmod>2019-12-15T20:52:03+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/blog/</loc>
     <lastmod>2019-11-19T00:31:53+02:00</lastmod>
   </url>
-  
 </urlset>
